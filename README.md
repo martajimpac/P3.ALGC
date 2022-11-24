@@ -8,7 +8,7 @@ diferentes formas.
 **Main1:** Recorrer el laberinto con el algoritmo con una busqueda en profundidad
 
 **Main2:** Recorrer el laberinto realizando una busqueda en profundidad y una busqueda en anchura. Incrementar la profundidad según vamos avanzando en
-la busqueda para poder apreciar el recorrido realizado.
+la busqueda para poder apreciar el recorrido realizado. Pongo un ejemplo de como busqueda en anchura.
 
 
 ![alt text](https://github.com/martajimpac/P3.ALGC/blob/master/Busqueda%20anchura-P0.7-S70-D15x15.png)
