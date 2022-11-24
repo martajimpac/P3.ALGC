@@ -59,23 +59,8 @@ public class Main1 {
 
     }
 
-
-  /*  public static ArrayList<Integer> buscarHijos(Grafo grafo, int idNodo){
-        ArrayList<Integer> hijos= new ArrayList<>();
-        for (int nodo = 0; nodo < NUMERONODOS; nodo++) {
-            if(grafo.E[idNodo][nodo] != 0 && grafo.V[nodo] == 0){ //si el nodo está conectado y no lo hemos visitado aun
-                hijos.add(nodo);
-            }
-        }
-        return (hijos);
-    }*/
-
-
     public static void busquedaProfundidad(Grafo grafo, int idNodo){
         grafo.V[idNodo]=20; //nodo visitado
-
-        //ver cuales son sus hijos
-        //ArrayList<Integer> hijos = buscarHijos(grafo,idNodo);
 
         for (int hijo = 0; hijo < NUMERONODOS; hijo++) {
             if(grafo.E[idNodo][hijo] != 0 && grafo.V[hijo] == 0){ //si el nodo está conectado y no lo hemos visitado aun

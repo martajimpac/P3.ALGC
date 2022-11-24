@@ -8,8 +8,8 @@ import java.util.*;
  * Crear un laberinto que solo tiene un recorrido
  */
 public class Main5 {
-    static final int NUMEROFILAS = 70;
-    static final int NUMEROCOLUMNAS = 70;
+    static final int NUMEROFILAS = 10;
+    static final int NUMEROCOLUMNAS = 10;
     static final int NUMERONODOS = NUMEROFILAS * NUMEROCOLUMNAS;
     static final int PARED = -10;
     static final int ESPACIO = 0;
