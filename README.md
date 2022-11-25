@@ -22,4 +22,4 @@ la busqueda para poder apreciar el recorrido realizado. Pongo un ejemplo de como
 
 
 
-![alt text](https://github.com/martajimpac/P3.ALGC/blob/master/el%20UNICO%20RECORRIDO-P0.5-S70-D10x10.png)
+![alt text](https://github.com/martajimpac/P3.ALGC/blob/master/el%20UNICO%20RECORRIDO-P0.5-S70-D20x20.png)
