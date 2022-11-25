@@ -2,7 +2,7 @@
 ### Practica de Algoritmos y computación
 
 En esta práctica se ha generado un grafo de dos formas: con listas de adyacencia y con matriz de adyacencia. Una vez generado este grafo se ha
-representado en una matriz en forma de laberinto, siendo los nos las habitaciones y los ejes los pasillos. Después se ha recorrido el laberinto de
+representado en una matriz en forma de laberinto, siendo los nodos las habitaciones y los ejes los pasillos. Después se ha recorrido el laberinto de
 diferentes formas.
 
 **Main1:** Recorrer el laberinto con el algoritmo con una busqueda en profundidad
